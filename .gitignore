@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+!data/input/sample.pdf
+!data/input/sample.xlsx
+!data/input/sample.xml
+
+# Docker
+docker-compose.override.yml
